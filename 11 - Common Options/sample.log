@@ -1,0 +1,4 @@
+2024-07-08T15:18:30+00:00 INFO  |45782|MyMethod resulted with OK, took 345ms
+2024-07-08T15:18:31+00:00 DEBUG |45782|This is line for debugging purposes
+2024-07-08T15:18:32+00:00 INFO  |14963|Object state changed to busy45
+2024-07-08T15:18:35+00:00 not matching line

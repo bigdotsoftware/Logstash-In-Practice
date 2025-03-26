@@ -1,0 +1,27 @@
+{"timestamp":"2024-02-19T08:51:06.499+0100", "thread": "167459", "severity":"TRACE", "message":"main: *************** RSVP Agent started ***************"}
+{"timestamp":"2024-02-19T08:51:06.568+0100", "thread": "167459", "severity":"TRACE", "message":"locate_configFile: Specified configuration file: /u/user10/rsvpd1.conf"}
+{"timestamp":"2024-02-19T08:51:07.159+0100", "thread": "222325", "severity":"TRACE", "message":"main: Using log level 511"}
+{"timestamp":"2024-02-19T08:51:07.040+0100", "thread": "222325", "severity":"TRACE", "message":"Get TCP images rc - EDC8112I Operation not supported on socket."}
+{"timestamp":"2024-02-19T08:51:07.121+0100", "thread": "167459", "severity":"TRACE", "message":"netif: list entries returned = 7"}
+{"timestamp":"2024-02-19T08:51:07.066+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #0, interface VLINK1 has address 129.1.1.1, ifidx 0"}
+{"timestamp":"2024-02-19T08:51:07.070+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #1, interface TR1 has address 9.37.65.139, ifidx 1"}
+{"timestamp":"2024-02-19T08:51:08.566+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #2, interface LINK11 has address 9.67.100.1, ifidx 2"}
+{"timestamp":"2024-02-19T08:51:08.976+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #3, interface LINK12 has address 9.67.101.1, ifidx 3"}
+{"timestamp":"2024-02-19T08:51:09.432+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #4, interface CTCD0 has address 9.67.116.98, ifidx 4"}
+{"timestamp":"2024-02-19T08:51:10.123+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #5, interface CTCD2 has address 9.67.117.98, ifidx 5"}
+{"timestamp":"2024-02-19T08:51:11.101+0100", "thread": "167459", "severity":"INFO",  "message":"netif: index #6, interface LOOPBACK has address 127.0.0.1, ifidx 0"}
+{"timestamp":"2024-02-19T08:51:11.058+0100", "thread": "167459", "severity":"INFO",  "message":"mailslot_create: creating mailslot for timer"}
+{"timestamp":"2024-02-19T08:51:11.568+0100", "thread": "167459", "severity":"INFO",  "message":"mailbox_register: mailbox allocated for timer"}
+{"timestamp":"2024-02-19T08:51:11.123+0100", "thread": "167459", "severity":"INFO",  "message":"listing ended"}
+{"timestamp":"2024-02-19T08:51:11.753+0100", "thread": "788525", "severity":"TRACE", "message":"Get TCP images rc - EDC8112I Operation not supported on socket."}
+{"timestamp":"2024-02-19T08:51:11.452+0100", "thread": "788525", "severity":"TRACE", "message":"netif: list entries returned = 4"}
+{"timestamp":"2024-02-19T08:51:11.225+0100", "thread": "788525", "severity":"INFO",  "message":"netif: index #0, interface VLINK1 has address 129.1.1.1, ifidx 0"}
+{"timestamp":"2024-02-19T08:51:12.123+0100", "thread": "788525", "severity":"INFO",  "message":"netif: index #1, interface TR1 has address 15.7.15.201, ifidx 1"}
+{"timestamp":"2024-02-19T08:51:12.778+0100", "thread": "222325", "severity":"TRACE", "message":"mailslot_create: creating mailslot for RSVP"}
+{"timestamp":"2024-02-19T08:51:12.557+0100", "thread": "444881", "severity":"TRACE", "message":"mailbox_register: mailbox allocated for rsvp"}
+{"timestamp":"2024-02-19T08:51:12.463+0100", "thread": "444881", "severity":"TRACE", "message":"mailslot_create: creating mailslot for RSVP via UDP"}
+{"timestamp":"2024-02-19T08:51:13.897+0100", "thread": "788525", "severity":"INFO",  "message":"netif: index #2, interface LINK11 has address 5.16.100.1, ifidx 2"}
+{"timestamp":"2024-02-19T08:51:13.126+0100", "thread": "788525", "severity":"INFO",  "message":"netif: index #3, interface LOOPBACK has address 127.0.0.1, ifidx 0"}
+{"timestamp":"2024-02-19T08:51:13.864+0100", "thread": "788525", "severity":"INFO",  "message":"mailslot_create: creating mailslot for timer"}
+{"timestamp":"2024-02-19T08:51:13.485+0100", "thread": "788525", "severity":"INFO",  "message":"mailbox_register: mailbox allocated for timer"}
+{"timestamp":"2024-02-19T08:51:14.875+0100", "thread": "788525", "severity":"INFO",  "message":"listing ended"}

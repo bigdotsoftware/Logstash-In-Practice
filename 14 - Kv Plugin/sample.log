@@ -1,0 +1,4 @@
+2024-07-08T15:18:30.000Z ip=192.168.0.25 state=ok
+2024-07-08T15:18:31.000Z ip=192.168.0.25 state=error reasons=rejected
+2024-07-08T15:18:32.000Z ip=192.168.0.25 state=error
+2024-07-08T15:18:34.000Z ip=192.168.0.25 state=ok comment="Service is coming back to the OK state" debuginfo="Some not important information"

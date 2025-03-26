@@ -1,0 +1,25 @@
+sudo apt install mysql-server
+sudo service mysql status
+sudo mysql
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'password123';
+FLUSH PRIVILEGES;
+
+mysql -u root -p
+CREATE DATABASE myshop;
+use myshop;
+
+CREATE TABLE users (
+    id int,
+    name varchar(255),
+    age int
+);
+INSERT INTO users VALUES(1, 'Joe', 34);
+INSERT INTO users VALUES(2, 'Ann', 48);
+INSERT INTO users VALUES(3, 'Mike', 22);
+INSERT INTO users VALUES(4, 'Sunny', 55);
+INSERT INTO users VALUES(5, 'Kate', 18);
+INSERT INTO users VALUES(6, 'Brad', 80);
+INSERT INTO users VALUES(7, 'Paul', 72);
+INSERT INTO users VALUES(8, 'Peter', 38);
+INSERT INTO users VALUES(9, 'Karen', 43);

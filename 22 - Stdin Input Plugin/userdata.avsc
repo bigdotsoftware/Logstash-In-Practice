@@ -1,0 +1,11 @@
+{
+    "doc": "A user record.",
+    "name": "User",
+    "namespace": "test",
+    "type": "record",
+    "fields": [
+        {"name": "username", "type": "string"},
+        {"name": "age", "type": "int"},
+        {"name": "city", "type": "string"}
+    ]
+}

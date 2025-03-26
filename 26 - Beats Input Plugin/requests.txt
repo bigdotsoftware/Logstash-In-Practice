@@ -1,0 +1,5 @@
+http://localhost:9200/metricbeat-8.17.0-2024.12.20/_search?q=metricset.name:cpu&pretty
+
+- drop_fields:
+    fields: ["agent", "host.id", "host.ip", "host.os", "host.architecture", "host.mac"]
+    ignore_missing: false

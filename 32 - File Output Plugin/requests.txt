@@ -1,0 +1,10 @@
+{
+"action": "create",
+"id": 1,
+"name": "Mike"
+}
+
+{
+"action": "delete",
+"id": 1
+}

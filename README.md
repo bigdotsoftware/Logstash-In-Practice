@@ -12,4 +12,4 @@ Whether you're a beginner or already have some experience with Logstash, this co
 
 I hope to see you in the first lecture!
 
-https://www.udemy.com/course/6035746/?referralCode=5C27DA54484A87D291CC
+https://www.udemy.com/course/logstash-in-practice/?referralCode=5C27DA54484A87D291CC
